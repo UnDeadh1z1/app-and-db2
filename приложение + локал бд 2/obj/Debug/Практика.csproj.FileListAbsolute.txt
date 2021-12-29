@@ -1,0 +1,78 @@
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\bin\Debug\Практика.exe.config
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\bin\Debug\Практика.exe
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\bin\Debug\Практика.pdb
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.csprojAssemblyReference.cache
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Authorization_user.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.authorization_all.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.GL_menu_user.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.GL_menu_adm.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Menu_tabl.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Reg.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.csproj.GenerateResource.cache
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.exe
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.pdb
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Computernie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Lekcionnie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Oborudovanie.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Potoch_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Prikh_nak.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Raskh_nak.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Sod_prikh_nak.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Sod_raskh_nak.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Add_Spis_oborud.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Computernie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Lekcionnie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Oborudovanie.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Potochnie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Prikhodnaya_nakladnaya.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Raskhodnaya_nakladnaya.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Sod_prikhodnoy_nakladnoy.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Sod_raskhodnoy_nakladnoy.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.T_Spis_oborud.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Upd_Oborudovanie.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Del_Oborudovanie.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Del_Computernie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Del_Lekcionnie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Upd_Computernie_auditorii.resources
+D:\техникум\3 курс\2 семестр\ПРОИЗВОДСТВЕННАЯ ПРАКТИКА\Практика\obj\Debug\Практика.Upd_Lekcionnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\bin\Debug\Практика.exe.config
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\bin\Debug\Практика.exe
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\bin\Debug\Практика.pdb
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.csproj.AssemblyReference.cache
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Computernie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Lekcionnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Oborudovanie.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Potochnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Prikh_nak.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Raskh_nak.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Sod_prikh_nak.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Sod_raskh_nak.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Add_Spis_oborud.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Authorization_user.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Authorization_all.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Del_Computernie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Del_Lekcionnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Del_Oborudovanie.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Del_Potochnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.GL_menu_user.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.GL_menu_adm.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Computernie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Lekcionnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Oborudovanie.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Potochnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Prikhodnaya_nakladnaya.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Raskhodnaya_nakladnaya.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Sod_prikhodnoy_nakladnoy.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Sod_raskhodnoy_nakladnoy.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.T_Spis_oborud.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Menu_tabl.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Reg.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Upd_Computernie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Upd_Lekcionnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Upd_Oborudovanie.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.Upd_Potochnie_auditorii.resources
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.csproj.GenerateResource.cache
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.exe
+C:\Рабочий стол\wxw\Учёба\практика\производ практика 3 сем\Практика\obj\Debug\Практика.pdb

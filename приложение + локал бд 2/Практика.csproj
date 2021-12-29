@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D7E8B3F7-DE8E-49A3-AB88-47F3AAD5C579}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Практика</RootNamespace>
+    <AssemblyName>Практика</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Computernie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Computernie_auditorii.Designer.cs">
+      <DependentUpon>Add_Computernie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Lekcionnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Lekcionnie_auditorii.Designer.cs">
+      <DependentUpon>Add_Lekcionnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Oborudovanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Oborudovanie.Designer.cs">
+      <DependentUpon>Add_Oborudovanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Potochnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Potochnie_auditorii.Designer.cs">
+      <DependentUpon>Add_Potochnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Prikh_nak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Prikh_nak.Designer.cs">
+      <DependentUpon>Add_Prikh_nak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Raskh_nak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Raskh_nak.Designer.cs">
+      <DependentUpon>Add_Raskh_nak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Sod_prikh_nak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Sod_prikh_nak.Designer.cs">
+      <DependentUpon>Add_Sod_prikh_nak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Sod_raskh_nak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Sod_raskh_nak.Designer.cs">
+      <DependentUpon>Add_Sod_raskh_nak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Spis_oborud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Spis_oborud.Designer.cs">
+      <DependentUpon>Add_Spis_oborud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization_user.Designer.cs">
+      <DependentUpon>Authorization_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Authorization_all.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authorization_all.Designer.cs">
+      <DependentUpon>Authorization_all.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Computernie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Computernie_auditorii.Designer.cs">
+      <DependentUpon>Del_Computernie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Lekcionnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Lekcionnie_auditorii.Designer.cs">
+      <DependentUpon>Del_Lekcionnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Oborudovanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Oborudovanie.Designer.cs">
+      <DependentUpon>Del_Oborudovanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Del_Potochnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Del_Potochnie_auditorii.Designer.cs">
+      <DependentUpon>Del_Potochnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GL_menu_user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GL_menu_user.Designer.cs">
+      <DependentUpon>GL_menu_user.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GL_menu_adm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GL_menu_adm.Designer.cs">
+      <DependentUpon>GL_menu_adm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="T_Computernie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Computernie_auditorii.Designer.cs">
+      <DependentUpon>T_Computernie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Lekcionnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Lekcionnie_auditorii.Designer.cs">
+      <DependentUpon>T_Lekcionnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Oborudovanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Oborudovanie.Designer.cs">
+      <DependentUpon>T_Oborudovanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Potochnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Potochnie_auditorii.Designer.cs">
+      <DependentUpon>T_Potochnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Prikhodnaya_nakladnaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Prikhodnaya_nakladnaya.Designer.cs">
+      <DependentUpon>T_Prikhodnaya_nakladnaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Raskhodnaya_nakladnaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Raskhodnaya_nakladnaya.Designer.cs">
+      <DependentUpon>T_Raskhodnaya_nakladnaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Sod_prikhodnoy_nakladnoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Sod_prikhodnoy_nakladnoy.Designer.cs">
+      <DependentUpon>T_Sod_prikhodnoy_nakladnoy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Sod_raskhodnoy_nakladnoy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Sod_raskhodnoy_nakladnoy.Designer.cs">
+      <DependentUpon>T_Sod_raskhodnoy_nakladnoy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="T_Spis_oborud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="T_Spis_oborud.Designer.cs">
+      <DependentUpon>T_Spis_oborud.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu_tabl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu_tabl.Designer.cs">
+      <DependentUpon>Menu_tabl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reg.Designer.cs">
+      <DependentUpon>Reg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Upd_Computernie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Computernie_auditorii.Designer.cs">
+      <DependentUpon>Upd_Computernie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Lekcionnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Lekcionnie_auditorii.Designer.cs">
+      <DependentUpon>Upd_Lekcionnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Oborudovanie.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Oborudovanie.Designer.cs">
+      <DependentUpon>Upd_Oborudovanie.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Upd_Potochnie_auditorii.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Upd_Potochnie_auditorii.Designer.cs">
+      <DependentUpon>Upd_Potochnie_auditorii.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add_Computernie_auditorii.resx">
+      <DependentUpon>Add_Computernie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Lekcionnie_auditorii.resx">
+      <DependentUpon>Add_Lekcionnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Oborudovanie.resx">
+      <DependentUpon>Add_Oborudovanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Potochnie_auditorii.resx">
+      <DependentUpon>Add_Potochnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Prikh_nak.resx">
+      <DependentUpon>Add_Prikh_nak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Raskh_nak.resx">
+      <DependentUpon>Add_Raskh_nak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Sod_prikh_nak.resx">
+      <DependentUpon>Add_Sod_prikh_nak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Sod_raskh_nak.resx">
+      <DependentUpon>Add_Sod_raskh_nak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Spis_oborud.resx">
+      <DependentUpon>Add_Spis_oborud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization_user.resx">
+      <DependentUpon>Authorization_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Authorization_all.resx">
+      <DependentUpon>Authorization_all.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Computernie_auditorii.resx">
+      <DependentUpon>Del_Computernie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Lekcionnie_auditorii.resx">
+      <DependentUpon>Del_Lekcionnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Oborudovanie.resx">
+      <DependentUpon>Del_Oborudovanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Del_Potochnie_auditorii.resx">
+      <DependentUpon>Del_Potochnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GL_menu_user.resx">
+      <DependentUpon>GL_menu_user.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GL_menu_adm.resx">
+      <DependentUpon>GL_menu_adm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Computernie_auditorii.resx">
+      <DependentUpon>T_Computernie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Lekcionnie_auditorii.resx">
+      <DependentUpon>T_Lekcionnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Oborudovanie.resx">
+      <DependentUpon>T_Oborudovanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Potochnie_auditorii.resx">
+      <DependentUpon>T_Potochnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Prikhodnaya_nakladnaya.resx">
+      <DependentUpon>T_Prikhodnaya_nakladnaya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Raskhodnaya_nakladnaya.resx">
+      <DependentUpon>T_Raskhodnaya_nakladnaya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Sod_prikhodnoy_nakladnoy.resx">
+      <DependentUpon>T_Sod_prikhodnoy_nakladnoy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Sod_raskhodnoy_nakladnoy.resx">
+      <DependentUpon>T_Sod_raskhodnoy_nakladnoy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="T_Spis_oborud.resx">
+      <DependentUpon>T_Spis_oborud.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu_tabl.resx">
+      <DependentUpon>Menu_tabl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reg.resx">
+      <DependentUpon>Reg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Computernie_auditorii.resx">
+      <DependentUpon>Upd_Computernie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Lekcionnie_auditorii.resx">
+      <DependentUpon>Upd_Lekcionnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Oborudovanie.resx">
+      <DependentUpon>Upd_Oborudovanie.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Upd_Potochnie_auditorii.resx">
+      <DependentUpon>Upd_Potochnie_auditorii.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

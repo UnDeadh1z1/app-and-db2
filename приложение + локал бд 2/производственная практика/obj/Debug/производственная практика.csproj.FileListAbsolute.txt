@@ -1,0 +1,36 @@
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\производственная практика.exe.config
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\производственная практика.exe
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\производственная практика.pdb
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.Form1.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.Properties.Resources.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.exe
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.pdb
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.tables.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.reg.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\MySql.Data.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\Google.Protobuf.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\ZstdNet.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\System.Memory.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\System.Buffers.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Администратор\Desktop\практика\производственная практика\bin\Debug\MySql.Data.xml
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.exe.config
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная практика.csproj.CopyComplete
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.inventary.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.otchety.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.tabotchety.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.admintables.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.admin.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.adminotch.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.skladadmin.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.sklady.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.personaladmin.resources
+C:\Users\Администратор\Desktop\практика\производственная практика\obj\Debug\производственная_практика.invetryadmin.resources
